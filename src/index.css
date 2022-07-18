@@ -1,0 +1,17 @@
+*{
+  box-sizing: border-box;
+}
+
+html{
+  height: 100%;
+  font-family: sans-serif;
+  background: rgb(248 236 152);
+  background-image: url("../public/TODO1.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+body{
+  margin:0;
+}

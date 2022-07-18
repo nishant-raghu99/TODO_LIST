@@ -1,0 +1,21 @@
+.button {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    border: 2px solid #020202;
+    background: #ebf3b0;
+  
+    color: black;
+    padding: 0.25rem 1rem;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  .button:hover,
+  .button:active {
+    background: #5f9cf1;
+    border-color: #0e0d0e;
+  }
+  
+  .button:focus {
+    outline: none;
+  }
